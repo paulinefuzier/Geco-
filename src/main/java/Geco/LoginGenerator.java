@@ -1,4 +1,4 @@
-package geco;
+package Geco;
 
 import java.text.Normalizer;
 import java.util.regex.Pattern;
